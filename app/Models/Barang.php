@@ -14,4 +14,6 @@ class Barang extends Model
     protected $table = 'barangs';
 
     protected $guarded = ['id_barang'];
+
+    // test
 }
